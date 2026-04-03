@@ -1,10 +1,9 @@
-**SauceDemo QA Testing Project
-**
+_SauceDemo QA Testing Project_
 
 This project contains both Manual Testing and Automation Testing for the SauceDemo e-commerce web application.
 It is created as part of my QA learning and portfolio building.
 
-🚀 Automation Testing – Playwright
+_🚀 Automation Testing – Playwright_
 
 The automation part includes end-to-end flow:
 
@@ -22,7 +21,7 @@ Test Scenarios Covered
 
 ✔️ Order placement confirmation
 
-Run Automation Tests
+_Run Automation Tests_
 
 Install dependencies:
 
@@ -33,7 +32,7 @@ Run tests visibly & slowly:
 npx playwright test --headed --slow-mo 1000
 
 
-🧪 Manual Testing
+_🧪 Manual Testing_
 
 The manual testing folder includes:
 
@@ -49,7 +48,7 @@ Documents
 
 These documents cover functional, UI, usability, and cart/checkout flow testing for SauceDemo.
 
-📘 Tools Used
+_📘 Tools Used_
 
 Automation:
 
