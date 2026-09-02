@@ -1,0 +1,2 @@
+Navigated to cart page successfully
+Order placed successfully

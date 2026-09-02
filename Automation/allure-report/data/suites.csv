@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3707","Verify user can place an order","chromium","2026-08-17","passed","2026-08-17","","checkoutpage.spec.js","",""
+"","9461","Verify product can be added to cart","chromium","2026-08-17","passed","2026-08-17","","addtocart.spec.js","",""
+"","2395","Verify error message in login form","chromium","2026-08-17","passed","2026-08-17","","incorrectLogin.spec.js","",""
+"","15749","Verify quantity increment button is available","chromium","2026-08-17","failed","2026-08-17","","addtocart.spec.js","",""
+"","2338","Verify user can login with valid credentials","chromium","2026-08-17","passed","2026-08-17","","login.spec.js","",""
